@@ -1,0 +1,1 @@
+import {getCurrentPosition} from 'geolocation';
